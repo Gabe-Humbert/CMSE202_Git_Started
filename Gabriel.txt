@@ -1,0 +1,12 @@
+ls
+vi Gabriel.txt
+quit
+q
+^
+:q
+:q!
+:wq
+:wq]
+
+c]
+Pizza
